@@ -1,4 +1,4 @@
-package com.coderoad.other;
+package com.logTest.other;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,8 +1,8 @@
-package com.coderoad.iot;
+package com.logTest.iot;
 
-import com.coderoad.migration.Log4J2Migration;
-import com.coderoad.other.Log4j2Other;
-import com.coderoad.test.Log4J2AsyncLogger;
+import com.logTest.migration.Log4J2Migration;
+import com.logTest.other.Log4j2Other;
+import com.logTest.test.Log4J2AsyncLogger;
 import org.junit.Test;
 
 

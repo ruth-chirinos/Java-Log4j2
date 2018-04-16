@@ -1,4 +1,4 @@
-package com.coderoad.migration;
+package com.logTest.migration;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
