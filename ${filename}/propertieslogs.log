@@ -1,0 +1,96 @@
+[INFO ] 2018-03-15 12:12:14.765 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:12:14.768 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:12:14.768 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:12:14.768 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:12:14.773 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:12:14.773 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:12:14.773 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:12:14.773 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:12:14.774 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:12:14.774 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:12:14.775 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:12:14.775 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:12:14.776 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:12:14.776 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:12:14.776 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:12:14.776 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message
+[INFO ] 2018-03-15 12:12:42.920 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:12:42.923 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:12:42.923 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:12:42.923 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:12:42.926 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:12:42.926 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:12:42.926 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:12:42.926 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:12:42.927 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:12:42.927 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:12:42.928 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:12:42.928 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:12:42.929 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:12:42.929 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:12:42.929 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:12:42.929 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message
+[INFO ] 2018-03-15 12:12:52.978 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:12:52.980 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:12:52.980 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:12:52.980 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:12:52.983 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:12:52.983 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:12:52.983 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:12:52.983 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:12:52.984 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:12:52.984 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:12:52.984 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:12:52.984 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:12:52.985 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:12:52.985 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:12:52.985 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:12:52.985 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message
+[INFO ] 2018-03-15 12:13:21.220 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:13:21.223 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:13:21.223 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:13:21.223 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:13:21.226 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:13:21.226 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:13:21.226 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:13:21.226 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:13:21.227 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:13:21.227 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:13:21.227 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:13:21.227 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:13:21.228 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:13:21.228 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:13:21.228 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:13:21.228 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message
+[INFO ] 2018-03-15 12:14:02.689 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:14:02.692 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:14:02.693 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:14:02.693 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:14:02.696 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:14:02.696 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:14:02.696 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:14:02.696 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:14:02.697 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:14:02.697 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:14:02.698 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:14:02.698 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:14:02.699 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:14:02.699 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:14:02.699 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:14:02.699 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message
+[INFO ] 2018-03-15 12:14:18.228 [main] com.coderoad.test.Log4J2AsyncLogger - This is an info message.
+[WARN ] 2018-03-15 12:14:18.230 [main] com.coderoad.test.Log4J2AsyncLogger - This is a warn message.
+[ERROR] 2018-03-15 12:14:18.230 [main] com.coderoad.test.Log4J2AsyncLogger - This is an error message.
+[FATAL] 2018-03-15 12:14:18.231 [main] com.coderoad.test.Log4J2AsyncLogger - This is a fatal message.
+[INFO ] 2018-03-15 12:14:18.233 [main] com.coderoad.iot.Log4JIoT - IoT - This is an info message
+[WARN ] 2018-03-15 12:14:18.233 [main] com.coderoad.iot.Log4JIoT - IoT - This is a warn message
+[ERROR] 2018-03-15 12:14:18.233 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-15 12:14:18.233 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[INFO ] 2018-03-15 12:14:18.235 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an info message
+[WARN ] 2018-03-15 12:14:18.235 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-15 12:14:18.236 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-15 12:14:18.236 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[INFO ] 2018-03-15 12:14:18.237 [main] com.coderoad.Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-03-15 12:14:18.237 [main] com.coderoad.Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-03-15 12:14:18.237 [main] com.coderoad.Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-03-15 12:14:18.237 [main] com.coderoad.Log4J2PropertiesConf - This is a fatal message

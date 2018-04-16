@@ -1,0 +1,12 @@
+[WARN ] 2018-03-18 14:56:44.163 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-18 14:56:44.163 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-18 14:56:44.163 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[WARN ] 2018-03-18 14:57:46.710 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-18 14:57:46.710 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-18 14:57:46.710 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[WARN ] 2018-03-18 14:58:04.260 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-18 14:58:04.261 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-18 14:58:04.261 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message
+[WARN ] 2018-03-18 14:58:22.405 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a warn message
+[ERROR] 2018-03-18 14:58:22.405 [main] com.coderoad.migration.Log4J2Migration - Migration - This is an error message
+[FATAL] 2018-03-18 14:58:22.405 [main] com.coderoad.migration.Log4J2Migration - Migration - This is a fatal message

@@ -1,0 +1,8 @@
+[ERROR] 2018-03-18 14:56:44.161 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-18 14:56:44.162 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[ERROR] 2018-03-18 14:57:46.705 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-18 14:57:46.705 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[ERROR] 2018-03-18 14:58:04.259 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-18 14:58:04.260 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
+[ERROR] 2018-03-18 14:58:22.403 [main] com.coderoad.iot.Log4JIoT - IoT - This is an error message
+[FATAL] 2018-03-18 14:58:22.404 [main] com.coderoad.iot.Log4JIoT - IoT - This is a fatal message
