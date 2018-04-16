@@ -1,8 +1,0 @@
-2018-03-18 14:56:44,159-0400 ERROR [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:12 - Test - This is an error message.
-2018-03-18 14:56:44,160-0400 FATAL [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:13 - Test - This is a fatal message
-2018-03-18 14:57:46,703-0400 ERROR [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:12 - Test - This is an error message.
-2018-03-18 14:57:46,704-0400 FATAL [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:13 - Test - This is a fatal message
-2018-03-18 14:58:04,257-0400 ERROR [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:12 - Test - This is an error message.
-2018-03-18 14:58:04,257-0400 FATAL [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:13 - Test - This is a fatal message
-2018-03-18 14:58:22,401-0400 ERROR [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:12 - Test - This is an error message.
-2018-03-18 14:58:22,402-0400 FATAL [main] com.coderoad.test.Log4J2AsyncLogger:performSomeTask:13 - Test - This is a fatal message
